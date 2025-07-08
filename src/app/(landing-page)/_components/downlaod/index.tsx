@@ -125,7 +125,7 @@ const DownloadUI = () => {
       }}
     >
       <Image src="/images/chrome.png" alt="chrome" width={20} height={20} />
-      GET Google READER FOR CHROME
+      GET GOOGLE READER FOR CHROME
     </Button>
 
     <Button
@@ -144,7 +144,7 @@ const DownloadUI = () => {
       }}
     >
       <Image src="/images/firefox.png" alt="firefox" width={20} height={20} />
-      GET Google READER FOR FIREFOX
+      GET GOOGLE READER FOR FIREFOX
     </Button>
   </Box>
 
@@ -164,7 +164,7 @@ const DownloadUI = () => {
     }}
   >
     <Image src="/images/edge.png" alt="edge" width={20} height={20} />
-    GET Google READER FOR EDGE
+    GET GOOGLE READER FOR EDGE
   </Button>
 </Box>
 
@@ -189,7 +189,7 @@ const DownloadUI = () => {
                   <CardMedia
                     component={"iframe"}
                     height={300}
-                    src="https://www.youtube.com/embed/jks17N_BXs0?si=2AzI9h4OG1LE28U5"
+                    src="https://www.youtube.com/embed/JJVkg3LpDto?si=2AzI9h4OG1LE28U5"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowFullScreen
                     sx={{ mt: 1, borderRadius: 1, border: 0 }}
