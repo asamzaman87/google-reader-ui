@@ -18,7 +18,7 @@ import Image from "next/image";
 import { ToggleColorMode } from "../toggle-color-mode";
 
 const EXT_URL = {
-  chrome: "https://chromewebstore.google.com/detail/google-reader-a-free-Google/aeggkceabpfajnglgaeadofdmeboimml?authuser=0&hl=en",
+  chrome: "https://chromewebstore.google.com/detail/google-reader-free-ai-tex/jdmmahggnlemcmcoljocaoejjlkjknld",
   firefox: "https://addons.mozilla.org/en-US/firefox/addon/google-reader/",
   edge: "https://microsoftedge.microsoft.com/addons/detail/oalnicbngdjhapmbjnoampbhioncjleo",
 }
